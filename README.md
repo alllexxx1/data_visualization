@@ -1,4 +1,4 @@
-### The project presents 'matpotlib' & 'Plotly' libraries as highly handy tools in terms of data visualization.
+### The project presents 'matplotlib' & 'Plotly' libraries as highly handy tools in terms of data visualization.
 
 ---
 

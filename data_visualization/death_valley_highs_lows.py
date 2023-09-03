@@ -41,4 +41,3 @@ plt.ylabel('Temperature (C)', fontsize=16)
 plt.tick_params(axis='both', which='major', labelsize=16)
 
 plt.show()
-
